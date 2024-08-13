@@ -15,3 +15,9 @@ This project involves the development of an autonomous shedding system designed 
 - **Arduino Uno:** Microcontroller for managing system operations.
 - **Sensors:** Monitors external temperature and rainfall.
 - **Motors and Relays:** Controls the shed's opening and closing mechanisms.
+
+## Code Description
+
+- **Temperature Monitoring:** Measures temperature using the DallasTemperature library.
+- **Rainfall Monitoring:** Reads analog values from a rainfall sensor.
+- **Relay Control:** Activates relays to open or close the shed based on sensor read
